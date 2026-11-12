@@ -18,4 +18,7 @@ Satellite ocean colour data + Environment Agency labels → feature engineering,
 **[Review-based recommenders on Amazon data with Spark](https://github.com/Nico939/amazon-review-recommender)**
 233M Amazon reviews → baseline, ALS, Word2Vec and TF-IDF sentiment models in PySpark on Google Cloud Dataproc, with partition tuning for run time.
 
+**[London house prices: scraping, analysis and prediction](https://github.com/Nico939/london-house-price-analysis)**
+Scraped 18K Rightmove listings → price-to-rent ratios by area, K-means price tiers, and price prediction with linear regression, XGBoost and random forest (R² 0.73).
+
 📫 Open to data analyst and data scientist roles in Toronto.
