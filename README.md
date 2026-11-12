@@ -7,6 +7,7 @@ Data analyst and data scientist based in Toronto. I build reliable data pipeline
 - 📜 SAS Certified Advanced Programmer
 
 **Analytics:** SQL · Python (pandas) · Tableau · Excel · SAS · analytics engineering
+
 **Data science:** scikit-learn · XGBoost · TensorFlow/Keras · PySpark · NLP · statistical modeling · Google Cloud
 
 #### Featured projects
