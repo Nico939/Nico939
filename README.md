@@ -1,12 +1,13 @@
 ### Hi, I'm Nicole Wang 👋
 
-Data analyst based in Toronto. I build reliable data pipelines and turn messy data into clear answers.
+Data analyst and data scientist based in Toronto. I build reliable data pipelines, turn messy data into clear answers, and train models when the problem calls for it.
 
 - 💼 ~3 years as a Programmer Analyst at KGS Research: SQL, Python, ETL pipelines, survey data workflows, data validation
 - 🎓 MSc Data Science, LSE · BMath Statistics, University of Waterloo
 - 📜 SAS Certified Advanced Programmer
 
-**Tools:** SQL · Python (pandas, scikit-learn) · Tableau · Excel · SAS · statistical modeling · analytics engineering
+**Analytics:** SQL · Python (pandas) · Tableau · Excel · SAS · analytics engineering
+**Data science:** scikit-learn · XGBoost · TensorFlow/Keras · PySpark · NLP · statistical modeling · Google Cloud
 
 #### Featured projects
 
@@ -16,4 +17,4 @@ Satellite ocean colour data + Environment Agency labels → feature engineering,
 **[Review-based recommenders on Amazon data with Spark](https://github.com/Nico939/amazon-review-recommender)**
 233M Amazon reviews → baseline, ALS, Word2Vec and TF-IDF sentiment models in PySpark on Google Cloud Dataproc, with partition tuning for run time.
 
-📫 Open to data analyst and analytics roles in Toronto.
+📫 Open to data analyst and data scientist roles in Toronto.
