@@ -8,9 +8,12 @@ Data analyst and data scientist based in Toronto. I build reliable data pipeline
 
 **Analytics:** SQL · Python (pandas) · Tableau · Excel · SAS · analytics engineering
 
-**Data science:** scikit-learn · XGBoost · TensorFlow/Keras · PySpark · NLP · statistical modeling · Google Cloud
+**Data science:** scikit-learn · XGBoost · TensorFlow/Keras · PySpark · Databricks · MLflow · LLM applications (Claude API) · NLP · statistical modeling · Google Cloud
 
 #### Featured projects
+
+**[AML alert triage: ML detection + LLM case summaries](https://github.com/Nico939/aml-alert-triage)**  
+5M bank transactions → 39 account-level behavioural features, XGBoost vs rules vs Isolation Forest on an out-of-time week (0.73 precision in the top 500 alerts vs a 0.9% base rate), LLM case summaries with a hallucination check, and a PySpark version on Databricks.
 
 **[Predicting sewage pollution from satellite data](https://github.com/Nico939/bathing-water-pollution-prediction)**  
 Satellite ocean colour data + Environment Agency labels → feature engineering, imbalanced classification (LR, RF, MLP, CNN) for UK bathing waters. LSE capstone.
